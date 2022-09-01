@@ -9,7 +9,7 @@ import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
 
 /**
- * Created by jt on 7/13/18.
+ * Created by jt on 7/13/18. but cloned by me
  */
 @Getter
 @Setter
